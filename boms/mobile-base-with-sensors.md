@@ -11,11 +11,17 @@ Estimated time and costs:
 ## Overview
 This Bill of Materials (BOM) covers all components required for building a mobile robotic platform with sensors, suitable for educational robotics courses. The build includes a differential drive mobile base, onboard computing, vision sensors, and an optional manipulator arm.
 
+
 > 🤖 **Inspired by the [Portland Area Robotics Society Common Platform](https://github.com/portlandrobotics/common_platform)**
 > This BOM builds upon the excellent work of our friends at P.A.R.T.S., adapting their proven Romi-based design for our educational robotics course.
 
-![Portland Robotics Common Platform](https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/romi-2.jpg)
-*Complete Romi platform assembly - Image from Portland Area Robotics Society*
+<br/>
+
+<img src="https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/romi-2.jpg" 
+     alt="Mobile base platform assembly" 
+     width="500">
+
+*Mobile base platform assembly - Image from Portland Area Robotics Society*
 
 ## Component Categories
 
@@ -31,7 +37,10 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 ### Motor Control & Power
 
-![PARS Custom PCB](https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/PARTS-board.png)
+<img src="https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/PARTS-board.png" 
+     alt="PARS Custom PCB" 
+     width="400">
+
 *Portland Robotics custom carrier PCB showing integrated motor drivers and Teensy mount*
 
 | Item | Description | Quantity | Unit Price | Total | Supplier |
@@ -66,7 +75,7 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 ### Optional Manipulator
 
-![Robot Arm Kit for Romi](https://www.pololu.com/file/0J10832/robot-arm-kit-for-romi.jpg)
+![Robot Arm Kit for Romi](/images/arm-kit-romi.jpg)
 *Robot Arm Kit for Romi - Optional manipulator attachment*
 
 | Item | Description | Quantity | Unit Price | Total | Supplier |
@@ -105,7 +114,10 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 ### Thank you P.A.R.T.S
 
-![PARTS Logo](https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/PARTS.png)
+<img src="https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/PARTS.png" 
+     alt="Portland Area Robotics Society (P.A.R.T.S.)" 
+     width="300">
+
 *Portland Area Robotics Society (P.A.R.T.S.)*
 
 ## Safety Considerations
