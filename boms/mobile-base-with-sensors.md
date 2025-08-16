@@ -2,11 +2,13 @@
 
 **Build Date:** Aug 2025
 **Course:** Engineer Boldly: AI Robotics Sprint
-<br/>
-Estimated time and costs:
+
+⚠️ Note: Time costs and materials are best estimates ⚠️
+
 **Materials Cost:** $700
 **Electronics Board Assembly Time:** 4 hours
 **Mobile Base Assembly Time:** not yet tested
+**Assembled Cost** \$1,???
 
 ## Overview
 This Bill of Materials (BOM) covers all components required for building a mobile robotic platform with sensors, suitable for educational robotics courses. The build includes a differential drive mobile base, onboard computing, vision sensors, and an optional manipulator arm.
