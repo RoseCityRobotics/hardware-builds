@@ -33,9 +33,7 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 | [Romi Chassis Kit](https://www.pololu.com/category/203/romi-chassis-kits) | Primary chassis platform | 1 | $39.95 | $39.95 | Pololu |
 | [Romi Chassis Caster](https://www.pololu.com/product/3530) | Rear support caster wheel | 1 | $3.95 | $3.95 | Pololu |
 | [Romi Encoder Pair](https://www.pololu.com/product/3542) | Wheel encoder sensors | 1 | $9.95 | $9.95 | Pololu |
-
-**Alternative Chassis Option:**
-| [SparkFun Chassis](https://www.sparkfun.com/products/16405) | Alternate chassis platform | 1 | $14.95 | $14.95 | SparkFun |
+| [SparkFun Chassis](https://www.sparkfun.com/products/16405) | **[Optional]** Alternate chassis platform | 1 | $14.95 | $14.95 | SparkFun |
 
 ### Motor Control & Power
 
@@ -128,16 +126,14 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 *Portland Area Robotics Society (P.A.R.T.S.)*
 
+🔗 **[P.A.R.T.S. Common Platform](https://github.com/portlandrobotics/common_platform)**
+Complete open-source robotics platform with detailed assembly guides, 3D models, and ROS2 integration.
+
 ## Safety Considerations
 - LiPo battery requires proper charging and storage
 - Always use battery protection circuit
 - Ensure proper power switch accessibility
 - Include emergency stop functionality in software
-
-## Related Projects & Resources
-
-🔗 **[Portland Area Robotics Society Common Platform](https://github.com/portlandrobotics/common_platform)**
-Complete open-source robotics platform with detailed assembly guides, 3D models, and ROS2 integration.
 
 📚 **Additional Documentation:**
 - [PARTS Interactive BOM](https://github.com/portlandrobotics/common_platform) - Detailed assembly guide
