@@ -64,7 +64,7 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 | Item | Description | Quantity | Unit Price | Total | Supplier |
 |:-----|:------------|:--------:|:----------:|:-----:|:---------|
 | [MPU-9250 IMU](https://www.amazon.com/HiLetgo-Gyroscope-Acceleration-Accelerator-Magnetometer/dp/B01I1J0Z7Y) | 9DOF inertial measurement unit | 1 | $14.99 | $14.99 | Amazon |
-| [Stereo Camera Module](https://www.pishop.us/product/imx219-83-stereo-camera-8mp-binocular-camera-module-depth-vision/) | IMX219 8MP stereo vision | 1 | $53.95 | $53.95 | PiShop |
+| [Pi HQ Camera](https://www.pishop.us/product/imx219-83-stereo-camera-8mp-binocular-camera-module-depth-vision/) | High quality camera module | 1 | $53.95 | $53.95 | PiShop |
 
 **Camera Accessories (Included):**
 - SKU: 942-1: 2.7mm 12MP Wide-Angle Lens
