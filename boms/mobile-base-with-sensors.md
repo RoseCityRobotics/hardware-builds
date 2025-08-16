@@ -75,7 +75,7 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 ### Optional Manipulator
 
-<img src="https://www.pololu.com/file/0J10832/robot-arm-kit-for-romi.jpg"
+<img src="/images/arm-kit-romi.jpg"
      alt="Robot Arm Kit for Romi"
      width="350">
 
