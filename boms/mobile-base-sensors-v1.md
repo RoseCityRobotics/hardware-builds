@@ -11,6 +11,9 @@ Estimated time and costs:
 ## Overview
 This Bill of Materials (BOM) covers all components required for building a mobile robotic platform with sensors, suitable for educational robotics courses. The build includes a differential drive mobile base, onboard computing, vision sensors, and an optional manipulator arm.
 
+![Romi Chassis Kit](../images/romi-chassis-kit.jpg)
+*Romi Chassis Kit - Primary platform components*
+
 ## Component Categories
 
 ### Core Platform
@@ -24,6 +27,10 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 | [SparkFun Chassis](https://www.sparkfun.com/products/16405) | Alternate chassis platform | 1 | $14.95 | $14.95 | SparkFun |
 
 ### Motor Control & Power
+
+![TB9051FTG Motor Driver](../images/tb9051ftg-motor-driver.jpg)
+*TB9051FTG Single Brushed DC Motor Driver Carrier*
+
 | Item | Description | Quantity | Unit Price | Total | Supplier |
 |:-----|:------------|:--------:|:----------:|:-----:|:---------|
 | [TB9051FTG Motor Driver](https://www.pololu.com/product/2997/resources) | Single brushed DC motor driver | 2 | $11.95 | $23.90 | Pololu |
@@ -55,6 +62,10 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 | Motor Control PCB | Custom PCB for Teensy & drivers | 1 | $40.00 | $40.00 | Custom |
 
 ### Optional Manipulator
+
+![Romi with Robot Arm](../images/romi-with-arm.jpg)
+*Romi robot with optional manipulator arm attachment*
+
 | Item | Description | Quantity | Unit Price | Total | Supplier |
 |:-----|:------------|:--------:|:----------:|:-----:|:---------|
 | [Robot Arm Kit](https://www.pololu.com/product/3550) | Romi-compatible robot arm | 1 | $99.95 | $99.95 | Pololu |
@@ -84,8 +95,22 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 - Multimeter
 - Hot glue gun (for cable management)
 
+## Visual References
+
+![Assembled Romi Platform](../images/romi-chassis-assembled.jpg)
+*Fully assembled Romi platform with control board*
+
 ## Safety Considerations
 - LiPo battery requires proper charging and storage
 - Always use battery protection circuit
 - Ensure proper power switch accessibility
 - Include emergency stop functionality in software
+
+## Image Credits
+Images sourced from the official [Pololu Romi Arduino Library Repository](https://github.com/pololu/romi-32u4-arduino-library) under their licensing terms.
+
+## Version History
+- v1.0: Initial BOM for first in-person course (Aug 2025)
+
+---
+*Last updated: August 2025*

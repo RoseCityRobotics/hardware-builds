@@ -53,7 +53,6 @@ Supporting technical documentation:
 ### Mobile Base + Sensors v1.0
 **Purpose:** Educational robotics platform for first in-person course
 **BOM:** [`boms/mobile-base-sensors-v1.md`](boms/mobile-base-sensors-v1.md)
-**Total Cost:** $697.78
 
 **Key Features:**
 - Differential drive mobile platform
