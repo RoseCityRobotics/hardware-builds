@@ -1,7 +1,7 @@
 # Mobile Base + Sensors BOM v1.0
 
 **Build Date:** Aug 2025
-**Course:** First In-Person Robotics Course
+**Course:** Engineer Boldly: AI Robotics Sprint
 <br/>
 Estimated time and costs:
 **Materials Cost:** $700
@@ -11,8 +11,11 @@ Estimated time and costs:
 ## Overview
 This Bill of Materials (BOM) covers all components required for building a mobile robotic platform with sensors, suitable for educational robotics courses. The build includes a differential drive mobile base, onboard computing, vision sensors, and an optional manipulator arm.
 
-![Romi Chassis Kit](../images/romi-chassis-kit.jpg)
-*Romi Chassis Kit - Primary platform components*
+> 🤖 **Inspired by the [Portland Area Robotics Society Common Platform](https://github.com/portlandrobotics/common_platform)**  
+> This BOM builds upon the excellent work of PARS, adapting their proven Romi-based design for our educational robotics course.
+
+![Portland Robotics Common Platform](https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/romi-chassis-front.jpg)
+*Complete Romi platform assembly - Image from Portland Area Robotics Society*
 
 ## Component Categories
 
@@ -28,8 +31,8 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 ### Motor Control & Power
 
-![TB9051FTG Motor Driver](../images/tb9051ftg-motor-driver.jpg)
-*TB9051FTG Single Brushed DC Motor Driver Carrier*
+![PARS Custom PCB](https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/pcb-front.jpg)
+*Portland Robotics custom carrier PCB showing integrated motor drivers and Teensy mount*
 
 | Item | Description | Quantity | Unit Price | Total | Supplier |
 |:-----|:------------|:--------:|:----------:|:-----:|:---------|
@@ -63,8 +66,8 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 ### Optional Manipulator
 
-![Romi with Robot Arm](../images/romi-with-arm.jpg)
-*Romi robot with optional manipulator arm attachment*
+![Robot Arm Kit for Romi](https://www.pololu.com/file/0J10832/robot-arm-kit-for-romi.jpg)
+*Robot Arm Kit for Romi - Optional manipulator attachment*
 
 | Item | Description | Quantity | Unit Price | Total | Supplier |
 |:-----|:------------|:--------:|:----------:|:-----:|:---------|
@@ -97,8 +100,13 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 ## Visual References
 
-![Assembled Romi Platform](../images/romi-chassis-assembled.jpg)
-*Fully assembled Romi platform with control board*
+![Assembled PARS Platform](https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/romi-chassis-3quarter.jpg)
+*Completed Portland Robotics platform showing chassis, custom PCB, and sensor integration*
+
+### Additional Assembly Views
+
+![PCB Assembly Detail](https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/pcb-back.jpg)
+*Back view of custom PCB showing component layout and connections*
 
 ## Safety Considerations
 - LiPo battery requires proper charging and storage
@@ -107,7 +115,7 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 - Include emergency stop functionality in software
 
 ## Image Credits
-Images sourced from the official [Pololu Romi Arduino Library Repository](https://github.com/pololu/romi-32u4-arduino-library) under their licensing terms.
+Images sourced directly from [Pololu Corporation](https://www.pololu.com) product pages. Used with permission for educational purposes.
 
 ## Version History
 - v1.0: Initial BOM for first in-person course (Aug 2025)
