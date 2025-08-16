@@ -17,8 +17,8 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/romi-2.jpg" 
-     alt="Mobile base platform assembly" 
+<img src="https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/romi-2.jpg"
+     alt="Mobile base platform assembly"
      width="500">
 
 *Mobile base platform assembly - Image from Portland Area Robotics Society*
@@ -37,8 +37,8 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 ### Motor Control & Power
 
-<img src="https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/PARTS-board.png" 
-     alt="PARS Custom PCB" 
+<img src="https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/PARTS-board.png"
+     alt="PARS Custom PCB"
      width="400">
 
 *Portland Robotics custom carrier PCB showing integrated motor drivers and Teensy mount*
@@ -75,7 +75,10 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 ### Optional Manipulator
 
-![Robot Arm Kit for Romi](/images/arm-kit-romi.jpg)
+<img src="https://www.pololu.com/file/0J10832/robot-arm-kit-for-romi.jpg"
+     alt="Robot Arm Kit for Romi"
+     width="350">
+
 *Robot Arm Kit for Romi - Optional manipulator attachment*
 
 | Item | Description | Quantity | Unit Price | Total | Supplier |
@@ -109,13 +112,16 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 ## Visual References
 
-![Assembled PARS Platform](https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/romi.png)
-*Completed Portland Robotics platform showing chassis, custom PCB, and sensor integration*
+<img src="https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/romi.png"
+     alt="Assembled PARS Platform"
+     width="450">
+
+*Completed chassis*
 
 ### Thank you P.A.R.T.S
 
-<img src="https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/PARTS.png" 
-     alt="Portland Area Robotics Society (P.A.R.T.S.)" 
+<img src="https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/PARTS.png"
+     alt="Portland Area Robotics Society (P.A.R.T.S.)"
      width="300">
 
 *Portland Area Robotics Society (P.A.R.T.S.)*
@@ -132,7 +138,7 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 Complete open-source robotics platform with detailed assembly guides, 3D models, and ROS2 integration.
 
 📚 **Additional Documentation:**
-- [PARS Interactive BOM](https://github.com/portlandrobotics/common_platform) - Detailed assembly guide
+- [PARTS Interactive BOM](https://github.com/portlandrobotics/common_platform) - Detailed assembly guide
 - [Hardware Documentation](https://github.com/portlandrobotics/common_platform/tree/master/hardware) - PCB designs and schematics
 - [Firmware Examples](https://github.com/portlandrobotics/common_platform/tree/master/firmware) - Arduino and PlatformIO code
 
