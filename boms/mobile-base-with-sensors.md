@@ -11,10 +11,10 @@ Estimated time and costs:
 ## Overview
 This Bill of Materials (BOM) covers all components required for building a mobile robotic platform with sensors, suitable for educational robotics courses. The build includes a differential drive mobile base, onboard computing, vision sensors, and an optional manipulator arm.
 
-> 🤖 **Inspired by the [Portland Area Robotics Society Common Platform](https://github.com/portlandrobotics/common_platform)**  
-> This BOM builds upon the excellent work of PARS, adapting their proven Romi-based design for our educational robotics course.
+> 🤖 **Inspired by the [Portland Area Robotics Society Common Platform](https://github.com/portlandrobotics/common_platform)**
+> This BOM builds upon the excellent work of our friends at P.A.R.T.S., adapting their proven Romi-based design for our educational robotics course.
 
-![Portland Robotics Common Platform](https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/romi-chassis-front.jpg)
+![Portland Robotics Common Platform](https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/romi-2.jpg)
 *Complete Romi platform assembly - Image from Portland Area Robotics Society*
 
 ## Component Categories
@@ -31,7 +31,7 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 ### Motor Control & Power
 
-![PARS Custom PCB](https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/pcb-front.jpg)
+![PARS Custom PCB](https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/PARTS-board.png)
 *Portland Robotics custom carrier PCB showing integrated motor drivers and Teensy mount*
 
 | Item | Description | Quantity | Unit Price | Total | Supplier |
@@ -100,13 +100,13 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 ## Visual References
 
-![Assembled PARS Platform](https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/romi-chassis-3quarter.jpg)
+![Assembled PARS Platform](https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/romi.png)
 *Completed Portland Robotics platform showing chassis, custom PCB, and sensor integration*
 
-### Additional Assembly Views
+### Thank you P.A.R.T.S
 
-![PCB Assembly Detail](https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/pcb-back.jpg)
-*Back view of custom PCB showing component layout and connections*
+![PARTS Logo](https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/PARTS.png)
+*Portland Area Robotics Society (P.A.R.T.S.)*
 
 ## Safety Considerations
 - LiPo battery requires proper charging and storage
@@ -114,8 +114,19 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 - Ensure proper power switch accessibility
 - Include emergency stop functionality in software
 
+## Related Projects & Resources
+
+🔗 **[Portland Area Robotics Society Common Platform](https://github.com/portlandrobotics/common_platform)**
+Complete open-source robotics platform with detailed assembly guides, 3D models, and ROS2 integration.
+
+📚 **Additional Documentation:**
+- [PARS Interactive BOM](https://github.com/portlandrobotics/common_platform) - Detailed assembly guide
+- [Hardware Documentation](https://github.com/portlandrobotics/common_platform/tree/master/hardware) - PCB designs and schematics
+- [Firmware Examples](https://github.com/portlandrobotics/common_platform/tree/master/firmware) - Arduino and PlatformIO code
+
 ## Image Credits
-Images sourced directly from [Pololu Corporation](https://www.pololu.com) product pages. Used with permission for educational purposes.
+Platform images sourced from the [Portland Area Robotics Society Common Platform Repository](https://github.com/portlandrobotics/common_platform) under MIT License.
+Component images from [Pololu Corporation](https://www.pololu.com) product pages.
 
 ## Version History
 - v1.0: Initial BOM for first in-person course (Aug 2025)
