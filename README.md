@@ -82,7 +82,7 @@ When adding new builds or updating existing documentation:
 
 ## License
 
-This repository contains educational materials for robotics instruction. Please respect component manufacturer trademarks and licensing when using this documentation.
+This repository is licensed under the [MIT License](LICENSE). This repository contains educational materials for robotics instruction. Please respect component manufacturer trademarks and licensing when using this documentation.
 
 ---
 *Repository maintained for educational robotics courses*
