@@ -66,7 +66,7 @@ Supporting technical documentation:
 
 We welcome and encourage contributions!
 
-Make sure to check out the PARTs GitHub site:
+Make sure to check out the PARTS GitHub site:
 ````
 https://github.com/portlandrobotics/common_platform
 ````
