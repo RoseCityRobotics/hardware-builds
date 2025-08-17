@@ -64,13 +64,7 @@ Supporting technical documentation:
 
 ## Contributing
 
-We welcome and encourage contributions!
-
-Make sure to check out the PARTs GitHub site:
-````
-https://github.com/portlandrobotics/common_platform
-````
-Rather than duplicating work, we’ll use [the PARTS docs](https://parts-common-platform.readthedocs.io/en/latest/) and focus on helping them strengthen documentation. This can be a great way to rack up some git commits to an active open source robotics project.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines and information about working with the PARTs Common Platform.
 
 ### Contributing to this repository
 
