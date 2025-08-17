@@ -64,12 +64,18 @@ Supporting technical documentation:
 
 ## Contributing
 
-When adding new builds or updating existing documentation:
+We welcome and encourage contributions!
+
+Make sure to also check out the [PARTs GitHub site](https://github.com/PARTs-robotics) that’s already set up for the common platform. They could definitely use help with documentation development. Rather than duplicating work, we’ll link to their site and focus on helping them strengthen their docs. This can be a great way to rack up some git commits to an open source robotics project.
+
+### Contributing to this repository
+
+Feel free to **fork this repository** and/or **submit pull requests**.
+
+When adding new builds or updating an existing BOM:
 
 1. **BOMs**: Create versioned files in `/boms/` with detailed component information
 2. **Images**: Store in `/images/` with descriptive filenames
-3. **Guides**: Use clear step numbering and include safety warnings
-4. **Resources**: Organize datasheets and schematics in appropriate subdirectories
 
 ## Safety Notes
 
