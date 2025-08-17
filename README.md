@@ -66,11 +66,15 @@ Supporting technical documentation:
 
 We welcome and encourage contributions!
 
-Make sure to also check out the [PARTs GitHub site](https://github.com/PARTs-robotics) that’s already set up for the common platform. They could definitely use help with documentation development. Rather than duplicating work, we’ll link to their site and focus on helping them strengthen their docs. This can be a great way to rack up some git commits to an open source robotics project.
+Make sure to check out the PARTs GitHub site:
+````
+https://github.com/portlandrobotics/common_platform
+````
+ They could definitely use help with documentation development. Rather than duplicating work, we’ll link to their site and focus on helping them strengthen their docs. This can be a great way to rack up some git commits to an active open source robotics project.
 
 ### Contributing to this repository
 
-Feel free to **fork this repository** and/or **submit pull requests**.
+Feel free to build on your own **[at your own risk!]**, **fork this repository**, and/or **submit pull requests**.
 
 When adding new builds or updating an existing BOM:
 
@@ -92,3 +96,10 @@ This repository is licensed under the [MIT License](LICENSE). This repository co
 
 ---
 *Repository maintained for educational robotics courses*
+
+## Disclaimer
+
+This project is a **work in progress** and provided **as-is**.
+- It is **not production-ready**.
+- Use is intended for **educational and experimental purposes only**.
+- By using these files, you accept that you are doing so **at your own risk**.

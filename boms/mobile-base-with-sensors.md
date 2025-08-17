@@ -126,8 +126,18 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 *Portland Area Robotics Society (P.A.R.T.S.)*
 
-🔗 **[P.A.R.T.S. Common Platform](https://github.com/portlandrobotics/common_platform)**
+🔗 **[PARTs Common Platform](https://github.com/portlandrobotics/common_platform)**
 Complete open-source robotics platform with detailed assembly guides, 3D models, and ROS2 integration.
+
+## Contributing
+
+We welcome and encourage contributions!
+
+Make sure to check out the PARTs GitHub site:
+````
+https://github.com/portlandrobotics/common_platform
+````
+ They could definitely use help with documentation development. Rather than duplicating work, we’ll link to their site and focus on helping them strengthen their docs. This can be a great way to rack up some git commits to an active open source robotics project.
 
 ## Safety Considerations
 - LiPo battery requires proper charging and storage
