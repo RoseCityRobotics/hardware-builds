@@ -137,7 +137,7 @@ Make sure to check out the PARTs GitHub site:
 ````
 https://github.com/portlandrobotics/common_platform
 ````
- They could definitely use help with documentation development. Rather than duplicating work, we’ll link to their site and focus on helping them strengthen their docs. This can be a great way to rack up some git commits to an active open source robotics project.
+Rather than duplicating work, we’ll use [the PARTS docs](https://parts-common-platform.readthedocs.io/en/latest/) and focus on helping them strengthen documentation. This can be a great way to rack up some git commits to an active open source robotics project.
 
 ## Safety Considerations
 - LiPo battery requires proper charging and storage
