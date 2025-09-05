@@ -20,11 +20,11 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/romi-2.jpg"
+<img src="/images/stack_with_controller.jpg"
      alt="Mobile base platform assembly"
      width="500">
 
-*Mobile base platform assembly - Image from Portland Area Robotics Society*
+*Mobile base platform assembly*
 
 ## Component Categories
 
@@ -38,11 +38,11 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 ### Motor Control & Power
 
-<img src="https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/PARTS-board.png"
-     alt="PARS Custom PCB"
+<img src="/images/stack_ports_plus_controller.jpg"
+     alt="Custom PCB with ports and controller"
      width="400">
 
-*Portland Robotics custom carrier PCB showing integrated motor drivers and Teensy mount*
+*Custom carrier PCB showing integrated motor drivers and controller connections*
 
 | Item | Description | Quantity | Unit Price | Total | Supplier |
 |:-----|:------------|:--------:|:----------:|:-----:|:---------|
@@ -113,19 +113,26 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 ## Visual References
 
-<img src="https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/romi.png"
-     alt="Assembled PARS Platform"
+<img src="/images/stack_top.jpg"
+     alt="Assembled Platform - Top View"
      width="450">
 
-*Completed chassis*
+*Completed chassis - top view*
 
-### Thank you P.A.R.T.S
+<img src="/images/stack_with_controller.jpg"
+     alt="Assembled Platform - Side View"
+     width="300">
+
+*Completed chassis - side view - PS*
+
+### Thank you PARTS
 
 <img src="https://raw.githubusercontent.com/portlandrobotics/common_platform/master/github/img/PARTS.png"
      alt="Portland Area Robotics Society (P.A.R.T.S.)"
      width="300">
 
-*Portland Area Robotics Society (P.A.R.T.S.)*
+*Portland Area RoboTics Society (PARTS)*
+Our work is based on the [PARTS Common Platform](https://github.com/portlandrobotics/common_platform)
 
 ## Contributing
 
@@ -152,11 +159,11 @@ Complete open-source robotics platform with detailed assembly guides, 3D models,
 - [Firmware Examples](https://github.com/portlandrobotics/common_platform/tree/master/firmware) - Arduino and PlatformIO code
 
 ## Image Credits
-Platform images sourced from the [Portland Area Robotics Society Common Platform Repository](https://github.com/portlandrobotics/common_platform) under MIT License.
+
 Component images from [Pololu Corporation](https://www.pololu.com) product pages.
 
 ## Version History
-- v1.0: Initial BOM for first in-person course (Aug 2025)
+- v1.1: Initial BOM for first in-person course (Sept 2025)
 
 ---
-*Last updated: August 2025*
+*Last updated: Sept 2025*
