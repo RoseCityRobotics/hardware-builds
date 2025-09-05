@@ -5,11 +5,11 @@
 
 ⚠️ Note: Time costs and materials are best estimates ⚠️
 
-- **Minimum Required Materials Cost:** $700
+- **Minimum Required Materials Cost:** $740
 - **Electronics Board Assembly:** $200
-- **Taxes \ Tariffs \ Shipping** $210
+- **Taxes \ Tariffs \ Shipping** $25
 - **Mobile Base Assembly Time:** not yet tested
-- **Assembled Cost:** ~$1,100
+- **Assembled Cost:** ~$975
 
 ## Overview
 This Bill of Materials (BOM) covers all components required for building a mobile robotic platform with sensors, suitable for educational robotics courses. The build includes a differential drive mobile base, onboard computing, vision sensors, and an optional manipulator arm.
@@ -72,6 +72,7 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 |:-----|:------------|:--------:|:----------:|:-----:|:---------|
 | [MPU-9250 IMU](https://www.amazon.com/HiLetgo-Gyroscope-Acceleration-Accelerator-Magnetometer/dp/B01I1J0Z7Y) | 9DOF inertial measurement unit | 1 | $14.99 | $14.99 | Amazon |
 | [Pi HQ Camera](https://www.pishop.us/product/imx219-83-stereo-camera-8mp-binocular-camera-module-depth-vision/) | High quality camera module | 1 | $53.95 | $53.95 | PiShop |
+| [RPLIDAR Model A1M8](https://www.amazon.com/Slamtec-RPLIDAR-Scanning-Avoidance-Navigation/dp/B07TJW5SXF) | 2D 360 Degree 12 Meters Scanning Radius LIDAR | 1 | $89.60 | $89.60 | Slamtech |
 
 **Camera Accessories (Included):**
 - SKU: 942-1: 2.7mm 12MP Wide-Angle Lens
@@ -127,7 +128,7 @@ This Bill of Materials (BOM) covers all components required for building a mobil
      alt="Mobile base platform"
      width="450">
 
-*Completed chassis - top view*
+*Completed chassis - top view Halo, Chip Raspberry Pi AI HAT+*
 
 <img src="/images/stack_top.jpg"
      alt="Assembled Platform - Top View"
