@@ -20,11 +20,18 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 <br/>
 
+*Mobile base platform*
+<img src="/images/stack_platform_unassembled.jpg" width="500"
+     alt="Mobile base platform"
+     width="500">
+
+
+*Assembled chassis*
 <img src="/images/stack_with_controller.jpg"
      alt="Mobile base platform assembly"
      width="500">
 
-*Mobile base platform assembly*
+
 
 ## Component Categories
 
@@ -113,17 +120,28 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 
 ## Visual References
 
+*Mobile base platform*
+<img src="/images/stack_platform_unassembled.jpg"
+     alt="Mobile base platform"
+     width="450">
+
+*Completed chassis - top view*
 <img src="/images/stack_top.jpg"
      alt="Assembled Platform - Top View"
      width="450">
 
-*Completed chassis - top view*
+*Completed chassis - ports and controller view*
+<img src="/images/stack_ports_plus_controller.jpg"
+     alt="Assembled Platform - Ports and Controller"
+     width="450">
 
+*Completed chassis - side view - PS*
 <img src="/images/stack_with_controller.jpg"
      alt="Assembled Platform - Side View"
      width="300">
 
-*Completed chassis - side view - PS*
+
+
 
 ### Thank you PARTS
 
