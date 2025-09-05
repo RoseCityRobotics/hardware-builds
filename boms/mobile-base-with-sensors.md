@@ -130,7 +130,7 @@ This Bill of Materials (BOM) covers all components required for building a mobil
      alt="Assembled Platform - Top View"
      width="450">
 
-*Completed chassis - ports and controller view*
+*Completed chassis - ports view*
 <img src="/images/stack_ports_plus_controller.jpg"
      alt="Assembled Platform - Ports and Controller"
      width="450">
@@ -139,6 +139,16 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 <img src="/images/stack_with_controller.jpg"
      alt="Assembled Platform - Side View"
      width="300">
+
+*Raspberry Pi 5 with AI HAT+*
+<img src="/images/raspberry_pi_ai.jpg"
+     alt="Raspberry Pi 5 with AI HAT+"
+     width="450">
+
+*Raspberry Pi 5 Ports*
+<img src="/images/raspberry_pi.jpg"
+     alt="Raspberry Pi 5"
+     width="450">
 
 
 
