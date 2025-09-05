@@ -21,12 +21,14 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 <br/>
 
 *Mobile base platform*
+
 <img src="/images/stack_platform_unassembled.jpg" width="500"
      alt="Mobile base platform"
      width="500">
 
 
 *Assembled chassis*
+
 <img src="/images/stack_with_controller.jpg"
      alt="Mobile base platform assembly"
      width="500">
@@ -121,31 +123,37 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 ## Visual References
 
 *Mobile base platform*
+
 <img src="/images/stack_platform_unassembled.jpg"
      alt="Mobile base platform"
      width="450">
 
 *Completed chassis - top view*
+
 <img src="/images/stack_top.jpg"
      alt="Assembled Platform - Top View"
      width="450">
 
 *Completed chassis - ports view*
+
 <img src="/images/stack_ports_plus_controller.jpg"
      alt="Assembled Platform - Ports and Controller"
      width="450">
 
-*Completed chassis - side view - PS*
+*Completed chassis - side view - Play Station controller*
+
 <img src="/images/stack_with_controller.jpg"
      alt="Assembled Platform - Side View"
      width="300">
 
 *Raspberry Pi 5 with AI HAT+*
+
 <img src="/images/raspberry_pi_ai.jpg"
      alt="Raspberry Pi 5 with AI HAT+"
      width="450">
 
 *Raspberry Pi 5 Ports*
+
 <img src="/images/raspberry_pi.jpg"
      alt="Raspberry Pi 5"
      width="450">
