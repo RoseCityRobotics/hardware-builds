@@ -33,6 +33,11 @@ This Bill of Materials (BOM) covers all components required for building a mobil
      alt="Mobile base platform assembly"
      width="500">
 
+*Custom PCB showing integrated motor drivers and controller connections, Teensy MCU*
+
+<img src="/images/stack_ports_plus_controller.jpg"
+     alt="Custom PCB with ports and controller"
+     width="500">
 
 
 ## Component Categories
@@ -46,12 +51,6 @@ This Bill of Materials (BOM) covers all components required for building a mobil
 | [SparkFun Chassis](https://www.sparkfun.com/products/16405) | **[Optional]** Alternate chassis platform | 1 | $14.95 | $14.95 | SparkFun |
 
 ### Motor Control & Power
-
-<img src="/images/stack_ports_plus_controller.jpg"
-     alt="Custom PCB with ports and controller"
-     width="400">
-
-*Custom carrier PCB showing integrated motor drivers and controller connections*
 
 | Item | Description | Quantity | Unit Price | Total | Supplier |
 |:-----|:------------|:--------:|:----------:|:-----:|:---------|
