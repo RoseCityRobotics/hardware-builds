@@ -62,6 +62,14 @@ Supporting technical documentation:
 - Optional robot arm attachment
 - Real-time motor control via Teensy 4.0
 
+**Build Images:**
+
+![Back View](images/back_image.jpg)
+*Back view of the mobile base showing rear components and connections*
+
+![Side View with LiDAR](images/side_image_lidar.jpg)
+*Side view of the mobile base with LiDAR sensor mounted*
+
 ## Contributing
 
 We welcome and encourage contributions!

@@ -5,11 +5,11 @@
 
 ⚠️ Note: Time costs and materials are best estimates ⚠️
 
-- **Minimum Required Materials Cost:** $740
+- **Minimum Required Materials Cost:** $760
 - **Electronics Board Assembly:** $200
 - **Taxes \ Tariffs \ Shipping** $25
 - **Mobile Base Assembly Time:** not yet tested
-- **Assembled Cost:** ~$975
+- **Assembled Cost:** ~$985
 
 ## Overview
 This Bill of Materials (BOM) covers all components required for building a mobile robotic platform with sensors, suitable for educational robotics courses. The build includes a differential drive mobile base, onboard computing, vision sensors, and an optional manipulator arm.
