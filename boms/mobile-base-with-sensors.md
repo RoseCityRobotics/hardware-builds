@@ -158,6 +158,18 @@ This Bill of Materials (BOM) covers all components required for building a mobil
      alt="Raspberry Pi 5"
      width="450">
 
+*Back view - showing rear components and connections*
+
+<img src="/images/back_image.jpg"
+     alt="Back view of mobile base"
+     width="450">
+
+*Side view with LiDAR sensor mounted*
+
+<img src="/images/side_image_lidar.jpg"
+     alt="Side view with LiDAR sensor"
+     width="450">
+
 
 
 
